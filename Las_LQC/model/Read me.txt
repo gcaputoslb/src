@@ -3,3 +3,4 @@ Created by: Graziella Caputo
 ---------------------------------------------------------
 This model was created to predict the family names and units of the logs (channels) based on the values of the log in depth.
 ---------------------------------------------------------
+Unzip the file and set the path on the loadModel function
