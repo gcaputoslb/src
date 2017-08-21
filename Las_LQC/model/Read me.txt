@@ -1,0 +1,5 @@
+Date of creation: August, 18th, 2017
+Created by: Graziella Caputo
+---------------------------------------------------------
+This model was created to predict the family names and units of the logs (channels) based on the values of the log in depth.
+---------------------------------------------------------
